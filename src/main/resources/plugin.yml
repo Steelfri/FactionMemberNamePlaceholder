@@ -1,0 +1,8 @@
+name: FactionsMemberList
+version: '${project.version}'
+main: fr.steelfri.factionsmemberlist.FactionsMemberList
+api-version: 1.19
+authors: [ Steelfri ]
+description: 5 players names into placeholder
+depend:
+  - PlaceholderAPI
